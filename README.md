@@ -24,5 +24,17 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/HDR-Image-Synthesis-Papers/blob/master/h(13).pdf" style="text-decoration:none;">Deep Reverse Tone Mapping</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/HDR-Image-Synthesis-Papers/blob/master/h(14).pdf" style="text-decoration:none;">Deep Recursive HDRI: Inverse Tone Mapping using Generative Adversarial Networks</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/HDR-Image-Synthesis-Papers/blob/master/h(15).pdf" style="text-decoration:none;">End-to-End Differentiable Learning to HDR Image Synthesis for Multi-exposure Images</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/HDR-Image-Synthesis-Papers/blob/master/h(16).pdf" style="text-decoration:none;">Differentiable HDR Image Synthesis using Multi-exposure Images</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/HDR-Image-Synthesis-Papers/blob/master/h(17).pdf" style="text-decoration:none;">High Dynamic Range Imaging</a></li>   
+  
+  
+  
+  
+  
+  
                               
 </ul>
